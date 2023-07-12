@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        table,th,td{
+            border:3px solid black
+        }
+    </style>
+</head>
+<body> style="background- color:blue;"
+
+    <h1>Aston Martin - the iconic luxury British sports car manufacturer</h1>
+
+    <p>
+        Aston Martin is a modern, exclusive sports car brand with a unique heritage instantly recognised around the world<br>
+        Founded in 1913 by Lionel Martin and Robert Bamford, Aston Martin is acknowledged as an iconic global brand synonymous with style, luxury, performance and exclusivity.
+        The British marque fuses the latest technology, time honoured craftsmanship and graceful styling to produce a range of critically acclaimed sports cars.
+    </p>
+
+    <img src="aston martin.jpeg" alt="aston martin"
+    <video src="ASTON MARTIN VIDEO.mp4". controls width="500px"></video>
+    <audio src="astion martin exhaust" type="audio/mp3"
+     <from>
+        
+     </from>
+    <table>
+        <tr>
+            <th>car</th>
+            <th>bike</th>
+            <th>truck</th>
+        </tr>
+        <tr>
+            <td>aston martin</td>
+            <td>Kawasaki</td>
+            <td>tow truck</td>
+         </tr>
+         <tr>
+            <td>ford</td>
+            <td>yamaha</td>
+            <td>tipper truck</td>
+         </tr>
+         <tr>
+            <td>audi</td>
+            <td>suzuki</td>
+            <td>crane truck</td>
+         </tr>
+    </table>
+    <form>
+        <form>
+            <h2>hostel room registeration Form</h2>
+           <p class='second'>Fill in this form to register</p>
+           <br>
+     
+           <!--Input elements for form-->
+           <label> First Name </label> 
+           <input type="text" placeholder="Enter your first name" name="first_name" required>
+           <br>
+     
+           <br>
+           <label> Last Name </label>
+           <input type="text" placeholder="Enter your last name" name="last_name" required>
+           <br>
+     
+           <br>
+           <label> E-mail </label>
+           <input type="email" placeholder="Enter your e-mail" name="email" required>
+           <br>
+     
+           <br>
+           <label> Date of Birth </label>
+           <input type="date" name="dob" required>
+           <br>
+     
+           <br>
+           <label> Place of Birth </label>
+           <input type="text" placeholder="Enter your place" name="City" required>
+           <br>
+     
+           <br>
+           <label>Course</label>
+           <input type="text" placeholder="Course" name="Course" required>
+           <br>
+     
+           <br>
+           <label>Phone Number</label>
+           <input type="number" placeholder=" enter your phone number" name="Phone Number" required>
+           <br>
+           
+     
+      </form>
+      <button type="submit" form="nameform" value="Submit">Submit</button>
+
+    
+</body>
+</html>
