@@ -77,11 +77,6 @@
            <br>
      
            <br>
-           <label>Course</label>
-           <input type="text" placeholder="Course" name="Course" required>
-           <br>
-     
-           <br>
            <label>Phone Number</label>
            <input type="number" placeholder=" enter your phone number" name="Phone Number" required>
            <br>
