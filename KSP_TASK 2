@@ -47,7 +47,7 @@
     </table>
     <form>
         <form>
-            <h2>hostel room registeration Form</h2>
+            <h2> Hotel registeration Form</h2>
            <p class='second'>Fill in this form to register</p>
            <br>
      
@@ -89,6 +89,42 @@
      
       </form>
       <button type="submit" form="nameform" value="Submit">Submit</button>
+      <form>
+        <form>
+            <h2>Registration Form</h2>
+            <p class='second'>Fill in this form to register</p>
+            <br>
+      
+            <!--Input elements for form-->
+            <label> First Name </label> 
+            <input type="text" placeholder="Enter your first name" name="first_name" required>
+            <br>
+      
+            <br>
+            <label> Last Name </label>
+            <input type="text" placeholder="Enter your last name" name="last_name" required>
+            <br>
+      
+            <br>
+            <label> E-mail </label>
+            <input type="email" placeholder="Enter your e-mail" name="email" required>
+            <br>
+      
+            <br>
+            <label> Date of Birth </label>
+            <input type="date" name="dob" required>
+            <br>
+      
+      
+       </form>
+       <button type="submit" form="nameform" value="Submit">Submit</button>
+      
+      
+      
+      
+          </body>
+      </html>
+      </form>
 
     
 </body>
